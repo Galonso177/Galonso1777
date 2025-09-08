@@ -1,6 +1,6 @@
 <h1>Hi, I'm Giselle! 
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Active Directory homelab (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
